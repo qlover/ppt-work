@@ -1,0 +1,21 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ppt2png.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "image-size": "^1.1.1",
+    "jimp": "^0.22.12",
+    "jquery-node": "^0.3.0",
+    "node-pptx": "^1.0.0",
+    "nodejs-pptx": "^1.2.4",
+    "officegen": "^0.6.5",
+    "pptx-to-image": "^0.0.1",
+    "sharp": "^0.33.2"
+  }
+}
